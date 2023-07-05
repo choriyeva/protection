@@ -1,0 +1,226 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+p{
+    font-size: 16px !important;
+    text-align: center;
+}
+.pasword{
+    background-image: url(./images/Photo.png);
+    background-repeat: no-repeat;
+    margin-left: 70px;
+}
+.head{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 172px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.appointment button{
+    width: 188px;
+    height: 61px;
+    background: #0FE3AF;
+    padding: 16px 37px;
+    border-style: hidden;
+    font-size: larger;
+}
+.home{
+    display: flex;
+    justify-content: space-evenly;
+    /* padding: 83.08px 518.804px 0px 0px; */
+    align-items: center;
+    gap: 30px;
+    font-size: 23px;
+    
+    
+}
+.pharma{
+    color: #1C1C1C;
+    font-size: 30px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 105%;
+}
+h1{
+    color: #1C1C1C;
+    font-size: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 114.5%;
+    padding: 100px;
+    text-align: center;
+}
+.protected{
+    display: flex;
+    width: 793px;
+    padding: 100px 86px;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    background: #F1F1F1;
+    margin: 100px 563px;
+   
+}
+h3{
+    color: #1C1C1C;
+    text-align: center;
+    font-size: 14px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 142%;
+    letter-spacing: 5.81px;
+    text-transform: uppercase;
+    border: 0.5px solid #CECECE;
+}
+h2{
+    color: #1C1C1C;
+    text-align: center;
+    font-size: 40px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    /* line-height: 130%; */
+}
+.protected div p{
+    color: #545454;
+    text-align: center;
+    font-size: 18px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.protected div input{
+    border-style: hidden;
+    width: 600px;
+    height: 60px;
+    outline: none;
+}
+.enter {
+    padding: 10px 20px;
+    flex-shrink: 0;
+    border: 1px solid #DCDCDC;
+    background: #FFF;
+}
+.protected button{
+    display: flex;
+    padding: 17px 54px;
+    align-items: flex-start;
+    gap: 10px;
+    background: #0152A8;
+    border-style: hidden;
+}
+/* footer qismi uchun style */
+
+.big-div{
+    background: #e5f2ef;
+    margin: 100px;
+}
+
+.foods{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+    padding-top: 50px;
+    
+}
+.numbers{
+    display: flex;
+    gap: 50px;
+    color: #545454;
+    text-align: center;
+    align-items: center;
+    
+}
+.num{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    /* padding-bottom: 20px; */
+
+}
+.icon{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    gap: 30px;
+    color: #0152ab;
+    font-size: 30px;
+
+
+}
+
+.simple{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.simple div h3{
+    color: #1C1C1C;
+    font-size: 30px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 141%;
+}
+
+.simple div h4{
+    color: #1C1C1C;
+    font-size: 20px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 114.5%;
+}
+
+.explore div{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-bottom: 14px;
+    color: #545454;
+    font-size: 16px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%;
+    /* padding-top: 100px; */
+}
+.explore div input{
+    width: 325.698px;
+    height: 60px;
+    flex-shrink: 0;
+    border-style: hidden;
+    
+}
+.explore div button{
+    width: 138px;
+    height: 60px;
+    background: #0152ab;
+    border-style: hidden;
+    
+}
+h6{
+    color: #545454;
+    font-size: 16px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 200%;
+    text-align: center;
+    margin-top: -60px;
+    margin-bottom: 40px;
+}
+
+
+
